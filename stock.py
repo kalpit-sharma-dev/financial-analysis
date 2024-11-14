@@ -10,6 +10,12 @@ tickers = [
     "INFY.NS",      # Infosys
     "BHARTIARTL.NS",  # Bharti Airtel (updated)
     "NIFTYBEES.NS", # Nifty 50 ETF
+    "HINDUNILVR.NS", 
+    "ITC.NS", 
+    "ICICIBANK.NS",
+    "KOTAKBANK.NS",
+    "LT.NS",
+    "BAJFINANCE.NS"
 ]
 
 # Fetch the data for the last 3 years
